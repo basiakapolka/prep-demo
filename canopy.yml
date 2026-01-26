@@ -7,8 +7,6 @@ manifest:
   - https://api.dc.library.northwestern.edu/api/v2/works/261c3823-c82e-43b7-bba8-41046ce3a3dd?as=iiif
 metadata:
   - Subject
-  - Date
-  - Language
   - Genre
 featured:
   - https://api.dc.library.northwestern.edu/api/v2/works/38d10b34-26e0-49f5-a696-455a86f1d28f?as=iiif
