@@ -5,7 +5,6 @@ manifest:
   - https://api.dc.library.northwestern.edu/api/v2/works/a13433ae-fc9f-429a-82ed-f810c5680200?as=iiif
   - https://api.dc.library.northwestern.edu/api/v2/works/fdaee3f6-ead3-4880-9969-1ce820e8581c?as=iiif
   - https://api.dc.library.northwestern.edu/api/v2/works/261c3823-c82e-43b7-bba8-41046ce3a3dd?as=iiif
-  - https://www.loc.gov/item/2005631414/manifest.json
 metadata:
   - Subject
   - Date
